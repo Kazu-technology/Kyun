@@ -10,7 +10,7 @@ Website Link:
 (https://mouthwatering-delights-b-pn99qi4.gamma.site/)
 
 Location:
-41.726931° N and -49.948253° W
+street:  Residence No. 55 , North Korea
 
 Phone Number:
 +60 13 5919 8025
